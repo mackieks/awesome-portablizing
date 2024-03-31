@@ -104,6 +104,9 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [Shuriken Video](https://github.com/novi/shuriken-video) - Old GCVideo PCB design
 * [GameCube Wasp QSB](https://github.com/citrus3000psi/GameCube-Wasp-QSB) - QSB for installing Wiikey/Wasp Fusion ODEs on GC
 * [Gamecube Memory Card Breakout](https://github.com/silverstee1/Gamecube-Memcard-Slot-Breakout-PCB) - Breakout board for GC memcard slots
+* [NGCP by Nikoil](https://bitbuilt.net/forums/index.php?threads/ngcp-by-nikoil-finished.1279/) - A groundbreaking thread documenting the most ambitious GameCube handheld ever built.
+* [Juicy Green and Opaque Purple NGCPs](https://bitbuilt.net/forums/index.php?threads/nintendo-gamecube-portable.3284/) - Further revisions of the NGCP utilizing 3D-printed shells
+* [juankamq's Modern GC Portable](https://bitbuilt.net/forums/index.php?threads/my-attempt-at-making-a-gamecube-portable.5707/) - A tiny, modern GameCube portable with Picoboot
 
 ## Software
 
