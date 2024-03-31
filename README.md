@@ -1,6 +1,6 @@
  # ✨🎮 Awesome Portablizing 👾✨
 
-A curated list of portablizing and modding projects for various consoles, with a focus on cool and/or open-source hardware & software!
+A curated list of portablizing and portablizing-adjacent modding projects for various video game consoles, with a focus on cool and/or open-source hardware & software!
 
 ## Contents
 
