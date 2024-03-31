@@ -76,7 +76,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [N64cart](https://github.com/pdaxrom/N64cart) - In-development RP2040 N64 flashcart based on PicoCart64
 * [UltraPIF (PCB](https://github.com/jago85/UltraPIF_Hardware)[/Gateware](https://github.com/jago85/UltraPIF_FPGA)[/Firmware)](https://github.com/jago85/UltraPIF_MCU) - FPGA-based N64 PIF replacement
 * [N64RGB, N64Advanced](https://github.com/borti4938/n64rgb_project_overview) - A series of FPGA-based HDMI mods for the N64 by borti4938
-* [GCVideo Lite](https://github.com/ikorb/gcvideo) - FPGA-basd replacement video DAC for N64
+* [GCVideo Lite](https://github.com/ikorb/gcvideo) - FPGA-based replacement video DAC for N64
 * [PPR](https://bitbuilt.net/forums/index.php?threads/ppr.910/) - An epic thread documenting the first working N64 motherboard reimplementation
 * [N64-AIO](https://bitbuilt.net/forums/index.php?threads/n64-aio.3883/) - Gman's working N64 motherboard reimplementation
 * [N64 Tríos](https://bitbuilt.net/forums/index.php?threads/n64-tr%C3%ADos-a-3x3-inspired-motherboard-redesign.5029/) - SparkleBear's in-progress N64 motherboard reimplementation
