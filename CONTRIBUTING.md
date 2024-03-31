@@ -8,12 +8,12 @@ Search previous suggestions and open issues before making a new one, as yours ma
 
 Here's how you can contribute:
 
-- Look at open [Issues](https://github.com/commandtab/awesome-n64-development/issues) and provide help or feedback 
+- Look at open [Issues](https://github.com/mackieks/awesome-portablizing/issues) and provide help or feedback 
 - [Add a resource](#adding-a-resource)
 - [Correct and improve existing entries](#correcting-and-improving-resources)
 - [Fix broken links and unavailable resources](#removing-unavailable-resources)
 
-If you are unsure about something, it's okay to open an [Issue](https://github.com/commandtab/awesome-n64-development/issues).
+If you are unsure about something, it's okay to open an [Issue](https://github.com/mackieks/awesome-portablizing/issues).
 
 ## Adding a Resource
 
