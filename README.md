@@ -1,6 +1,6 @@
-# Awesome Portablizing
+ # ✨🎮 Awesome Portablizing 👾✨
 
-A curated list of portablizing and modding resources for various consoles, with a focus on cool and/or open-source hardware!
+A curated list of portablizing and modding projects for various consoles, with a focus on cool and/or open-source hardware & software!
 
 ## Contents
 
@@ -10,7 +10,7 @@ A curated list of portablizing and modding resources for various consoles, with 
         * [NES](#nes)
         * [SNES](#snes)
         * [N64](#n64)
-        * [GameCube](#gc)
+        * [GameCube](#gamecube)
         * [Wii](#wii)
     * [Sony](#sony)
         * [PS1](#pa1)
@@ -62,6 +62,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 #### N64
 * [usb64](https://github.com/Ryzee119/usb64) - Feature-packed controller (CNT-NUS) emulator for N64. Works standalone or with USB controllers
 * [atmega328-N64-controller](https://github.com/jtryba/atmega328-N64-controller) - 328P-based N64 controller emulator with rumble and memory pak support.
+* [cube64-dx](https://github.com/darthcloud/cube64-dx) - Adapter to use GameCube controllers on N64
 * [N64-Controller-Module](https://github.com/Gmanmodz/N64-Controller-Module) - Replacement N64 controller PCB for portables. Uses CNT-NUS and FRAM for mempak
 * [N64-Joystick-Converter](https://github.com/Gmanmodz/N64-Joystick-Converter) - PIC application code to connect pot-based joysticks to CNT-NUS
 * [N64 Stick Converter PCB v3](https://github.com/Nold360/n64_stick_converter) - AVR-based N64 stick converter by Jakob Schäfer
@@ -73,12 +74,36 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [El Barato 64](https://github.com/Hazematman/El-Barato-64) - Incomplete FPGA-based N64 flashcart
 * [PicoCart64](https://github.com/kbeckmann/PicoCart64) - RP2040-based N64 flashcart (development stalled)
 * [N64cart](https://github.com/pdaxrom/N64cart) - In-development RP2040 N64 flashcart based on PicoCart64
-* [UltraPIF (PCB](https://github.com/jago85/UltraPIF_Hardware)[/Gateware)](https://github.com/jago85/UltraPIF_FPGA)[/Firmware)](https://github.com/jago85/UltraPIF_MCU) - FPGA-based N64 PIF replacement
+* [UltraPIF (PCB](https://github.com/jago85/UltraPIF_Hardware)[/Gateware](https://github.com/jago85/UltraPIF_FPGA)[/Firmware)](https://github.com/jago85/UltraPIF_MCU) - FPGA-based N64 PIF replacement
 * [N64RGB, N64Advanced](https://github.com/borti4938/n64rgb_project_overview) - A series of FPGA-based HDMI mods for the N64 by borti4938
-* [PPR](https://bitbuilt.net/forums/index.php?threads/ppr.910/) - "the ultimate N64 portable ever built." A thread documenting the first working N64 motherboard reimplementation
+* [GCVideo Lite](https://github.com/ikorb/gcvideo) - FPGA-basd replacement video DAC for N64
+* [PPR](https://bitbuilt.net/forums/index.php?threads/ppr.910/) - An epic thread documenting the first working N64 motherboard reimplementation
 * [N64-AIO](https://bitbuilt.net/forums/index.php?threads/n64-aio.3883/) - Gman's working N64 motherboard reimplementation
 * [N64 Tríos](https://bitbuilt.net/forums/index.php?threads/n64-tr%C3%ADos-a-3x3-inspired-motherboard-redesign.5029/) - SparkleBear's in-progress N64 motherboard reimplementation
 * [N64 Micro](https://bitbuilt.net/forums/index.php?threads/n64-micro.6204/) - thedrewm's in-progress N64 motherboard reimplementation
+
+#### GameCube
+* [GC+](https://github.com/Aurelio92/GCPlus) - PIC18F-based GameCube controller emulator
+* [GC+ 2.0](https://github.com/Aurelio92/GCPlus-2.0) - Improved GameCube controller emulator
+* [pico-rectangle](https://github.com/JulienBernard3383279/pico-rectangle) - RP2040-based GameCube fightstick
+* [PhobGCC](https://github.com/PhobGCC) - RP2040-based GameCube controller emulator with hall-effect sticks
+* [JohbGCC](https://github.com/8n1/JohbGCC) - Phob fork with DFM improvements
+* [BlueRetro HW2 GameCube QSB](https://github.com/Arthrimus/BlueRetro-HW2-GameCube) - BlueRetro GameCube add-on board
+* [SD2SP2](https://github.com/citrus3000psi/SD2SP2) - Open source Serial Port 2 to microSD adapter
+* [SD2SP2 Nano](https://github.com/ndoo/SD2SP2-Nano) - Tiny Serial Port 2 to microSD adapter
+* [SD2SP2 Pro](https://github.com/misteraddons/SD2SP2-Pro) - Improved Serial Port 2 to microSD adapter
+* [XenGC-Flex](https://github.com/HDR/XenoGC-Flex) - Flex PCB XenoGC clone
+* [PicoBoot](https://github.com/webhdx/PicoBoot) - Open source Pico-based IPL modchip
+* [NeoPicoBoot](https://github.com/paulmreese/NeoPicoBoot) - Fork of PicoBoot with Wi-Fi controlled RGB LEDs
+* [weird-flex-boot-ok](https://github.com/GameboxSystems/weird-flex-boot-ok) - Flex PCB for installing Picoboot
+* [KunaiGC](https://github.com/KunaiGC/KunaiGC) - Open source FPGA-based IPL modchip
+* [flippydrive](https://github.com/OffBroadway/flippydrive) - Upcoming open source RP2040/ESP32-based GameCube ODE
+* [DOL-PD](https://github.com/sj3603/DOL-PD) - USB-C PD mod for GameCube
+* [GCVideo](https://github.com/ikorb/gcvideo) - FPGA-based DVI/HDMI mod for GameCube
+* [GCVideo-Hardware-Designs](https://github.com/citrus3000psi/GCVideo-Hardware-Designs) - Various closed-source GCVideo PCB designs
+* [Shuriken Video](https://github.com/novi/shuriken-video) - Old GCVideo PCB design
+* [GameCube Wasp QSB](https://github.com/citrus3000psi/GameCube-Wasp-QSB) - QSB for installing Wiikey/Wasp Fusion ODEs on GC
+* [Gamecube Memory Card Breakout](https://github.com/silverstee1/Gamecube-Memcard-Slot-Breakout-PCB) - Breakout board for GC memcard slots
 
 ## Software
 
