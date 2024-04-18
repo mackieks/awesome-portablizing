@@ -105,9 +105,29 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [Shuriken Video](https://github.com/novi/shuriken-video) - Old GCVideo PCB design
 * [GameCube Wasp QSB](https://github.com/citrus3000psi/GameCube-Wasp-QSB) - QSB for installing Wiikey/Wasp Fusion ODEs on GC
 * [Gamecube Memory Card Breakout](https://github.com/silverstee1/Gamecube-Memcard-Slot-Breakout-PCB) - Breakout board for GC memcard slots
+* [GameCube AIO](https://bitbuilt.net/forums/index.php?threads/gamecube-aio-internal-gba-player.5612/) - Internal GBA Player mod for GameCube
 * [NGCP by Nikoil](https://bitbuilt.net/forums/index.php?threads/ngcp-by-nikoil-finished.1279/) - A groundbreaking thread documenting the most ambitious GameCube handheld ever built
 * [Juicy Green and Opaque Purple NGCPs](https://bitbuilt.net/forums/index.php?threads/nintendo-gamecube-portable.3284/) - Further revisions of the NGCP utilizing 3D-printed shells
 * [juankamq's Modern GC Portable](https://bitbuilt.net/forums/index.php?threads/my-attempt-at-making-a-gamecube-portable.5707/) - A tiny, modern GameCube portable with Picoboot
+
+#### Wii
+* [RVK Compendium](https://bitbuilt.net/forums/index.php?threads/wii-rvk-01-compendium-released.93/) - In-depth tracing/pinoutting of the 4-layer Wii motherboard
+* [RVL-PMS](https://github.com/Gmanmodz/RVL-Power-Management-System) - BQ25895-based BMS + power management for Wii portables
+* [U-AMP](https://github.com/Gmanmodz/U-AMP) - LM49450-based digital audio amp for Wii and other consoles
+* [nandFlex](https://github.com/mackieks/nandFlex) - FPC for relocating Wii's NAND
+* [AVEflex](https://github.com/mackieks/AVEflex) - FPC for relocating Wii's AVE
+* [WiFiflex](https://github.com/supertazon/WiFiflex) - FPC for relocating Wii's Wi-Fi module
+* [fujiflex](https://github.com/mackieks/fujiflex) - GCVideo DVI flex PCB for Wii
+* [OmegaFlex](https://github.com/jmacato/OmegaFlex) - Wii NAND + U10 + digital video breakout flex
+* [wii-breakout](https://github.com/loopj/wii-breakout) - Wii motherboard breakout PCB
+* [wii_undervolt](https://github.com/mackieks/wii_undervolt) - Regulator board for Wii undervolting and current measurement
+* [RVL-PSU](https://bitbuilt.net/forums/index.php?threads/rvl-psu.3335/) - Simple Wii regulator board
+* [PSU-Plus](https://bitbuilt.net/forums/index.php?threads/psu-plus-official-release.5704/) - Improved, closed source Wii regulator board
+* [Classic+](https://github.com/JSnowden33/ClassicPlus) - Wii Classic Controller and Nunchuk emulator
+* [Wii-Bluetooth-Replacement](https://github.com/JSnowden33/Wii-Bluetooth-Replacement) - ESP32-based Wii BT module replacement
+* [GC Nano](https://bitbuilt.net/forums/index.php?threads/gc-nano-the-worlds-smallest-gamecube.5697/) - World's smallest GameCube (Wii-based)
+* [Short Stack](https://github.com/loopj/short-stack) - World's smallest Wii console
+* WIP
 
 ## Software
 
