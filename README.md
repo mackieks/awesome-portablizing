@@ -43,7 +43,6 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [OpenTendo](https://github.com/Redherring32/OpenTendo) - An open source hardware recreation of the 1985 frontloading NES
 * [OpenTendo Toploader](https://github.com/Redherring32/OpenTendo-TopLoader) - An open source hardware recreation of the 1993 toploading NES (NES-101)
 * [fiNESse](https://github.com/mmoracantallops/fiNESse) - TinyNES, NESRGB, OpenTendo and Power Module Redesign in one PCB
-* [NES Slotmaster](https://github.com/ShawMerlin/NES-Slotmaster) - An open source replacement 72-pin NES cartridge slot
 * [NullCIC](https://github.com/Redherring32/NullCIC) - CIC replacement for NES
 * [PicoPad](https://github.com/Redherring32/PicoPad) - World's smallest functional NES controller
 * [NES ProtoCart](https://github.com/Redherring32/NES-ProtoCart) - Protoboard NES cartridge
