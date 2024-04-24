@@ -2,6 +2,8 @@
 
 A curated list of portablizing and portablizing-adjacent modding projects for various video game consoles, with a focus on cool and/or open-source hardware & software!
 
+Please open a PR if you know of a cool portablizing-related project that should be added to the list.
+
 ## Contents
 
 * [Community](#community)
@@ -118,16 +120,23 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [AVEflex](https://github.com/mackieks/AVEflex) - FPC for relocating Wii's AVE
 * [WiFiflex](https://github.com/supertazon/WiFiflex) - FPC for relocating Wii's Wi-Fi module
 * [fujiflex](https://github.com/mackieks/fujiflex) - GCVideo DVI flex PCB for Wii
+* [periphlex](https://github.com/loopj/periphlex) - Flex breakout for USB, BT and GCC on trimmed Wiis
 * [OmegaFlex](https://github.com/jmacato/OmegaFlex) - Wii NAND + U10 + digital video breakout flex
 * [wii-breakout](https://github.com/loopj/wii-breakout) - Wii motherboard breakout PCB
+* [wii-trim-pcb-footprints](https://github.com/loopj/wii-trim-pcb-footprints) - Wii motherboard "shield" PCB templates
+* [Wii Power Strip](https://github.com/loopj/wii-power-strip) - Slimline PCB to supply power to trimmed Wii motherboards
 * [wii_undervolt](https://github.com/mackieks/wii_undervolt) - Regulator board for Wii undervolting and current measurement
+* [Thundervolt](https://github.com/mackieks/thundervolt) - Stylish, highly integrated voltage regulation hat with software-controlled undervolting
 * [RVL-PSU](https://bitbuilt.net/forums/index.php?threads/rvl-psu.3335/) - Simple Wii regulator board
 * [PSU-Plus](https://bitbuilt.net/forums/index.php?threads/psu-plus-official-release.5704/) - Improved, closed source Wii regulator board
 * [Classic+](https://github.com/JSnowden33/ClassicPlus) - Wii Classic Controller and Nunchuk emulator
 * [Wii-Bluetooth-Replacement](https://github.com/JSnowden33/Wii-Bluetooth-Replacement) - ESP32-based Wii BT module replacement
 * [GC Nano](https://bitbuilt.net/forums/index.php?threads/gc-nano-the-worlds-smallest-gamecube.5697/) - World's smallest GameCube (Wii-based)
 * [Short Stack](https://github.com/loopj/short-stack) - World's smallest Wii console
-* WIP
+* [Wii SPii](https://github.com/StonedEdge/WiiSPii) - Open source clamshell Wii portable
+* [G-Wii](https://bitbuilt.net/forums/index.php?threads/g-wii-cad-files.2319/) - Open source Wii portable with 5" 640x480 screen
+* [G-Boy Rev III](https://bitbuilt.net/forums/index.php?threads/g-boy-pcb-files.5054/) - Open source DMG-style Wii portable
+* [Louii Twoii](https://bitbuilt.net/forums/index.php?threads/louii-twoii-cad-files.4886/) - Open source Wii portable with 5" 800x480 screen
 
 ## Software
 
