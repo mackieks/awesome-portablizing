@@ -126,6 +126,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [Wii Power Strip](https://github.com/loopj/wii-power-strip) - Slimline PCB to supply power to trimmed Wii motherboards
 * [wii_undervolt](https://github.com/mackieks/wii_undervolt) - Regulator board for Wii undervolting and current measurement
 * [Thundervolt](https://github.com/mackieks/thundervolt) - Stylish, highly integrated voltage regulation hat with software-controlled undervolting
+* [wii-power-module](https://github.com/Swioamsd/Wii-power-module) - Highly integrated voltage regulation / audio / SD / MX hat for OMEGA trims
 * [RVL-PSU](https://bitbuilt.net/forums/index.php?threads/rvl-psu.3335/) - Simple Wii regulator board
 * [PSU-Plus](https://bitbuilt.net/forums/index.php?threads/psu-plus-official-release.5704/) - Improved, closed source Wii regulator board
 * [Classic+](https://github.com/JSnowden33/ClassicPlus) - Wii Classic Controller and Nunchuk emulator
