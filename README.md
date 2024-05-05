@@ -54,6 +54,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [nonSNES](https://github.com/stonedDiscord/nonSNES) - An open source recreation of the SNSP-CPU-01 Rev5 SNES motherboard
 * [snesp](https://github.com/tdoug870/snesp) - An old school SNES portable using a PSOne screen, designed in openSCAD
 * [αSNES](https://bitbuilt.net/forums/index.php?threads/2022-contest-entry-%CE%B1snes.5055/) - Incomplete SNES portable based on 1-Chip motherboard redesign
+* [SNES_TST](https://github.com/Opatusos/SNES_TST) - Project for utilizing the digital RGB555 video bus found on 2Chip SNES consoles
 * [Lazy Man's SNES Reset](https://github.com/Nold360/lazy_mans_snes_reset) - In-game reset for SNES, activated by button combo
 * [SNES Dejitter](https://github.com/marqs85/snes_dejitter) - Dejitter mod for NES/SNES
 * [SNES Multi-Region with Dejitter](https://github.com/borti4938/SNES_MultiRegion_with_DeJitter_QID) - Region-free mod with SuperCIC, dejitter, and IGR
