@@ -129,7 +129,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [Thundervolt](https://github.com/mackieks/thundervolt) - Stylish, highly integrated voltage regulation hat with software-controlled undervolting
 * [wii-power-module](https://github.com/Swioamsd/Wii-power-module) - Highly integrated voltage regulation / audio / SD / MX hat for OMEGA trims
 * [RVL-PSU](https://bitbuilt.net/forums/index.php?threads/rvl-psu.3335/) - Simple Wii regulator board
-* [PSU-Plus](https://bitbuilt.net/forums/index.php?threads/psu-plus-official-release.5704/) - Improved, closed source Wii regulator board
+* [PSU-Plus](https://github.com/CrazyGadgetMods/PSU-Plus?tab=readme-ov-file) - Improved, open source Wii regulator board
 * [Classic+](https://github.com/JSnowden33/ClassicPlus) - Wii Classic Controller and Nunchuk emulator
 * [Wii-Bluetooth-Replacement](https://github.com/JSnowden33/Wii-Bluetooth-Replacement) - ESP32-based Wii BT module replacement
 * [GC Nano](https://bitbuilt.net/forums/index.php?threads/gc-nano-the-worlds-smallest-gamecube.5697/) - World's smallest GameCube (Wii-based)
