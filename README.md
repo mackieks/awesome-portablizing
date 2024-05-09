@@ -35,6 +35,9 @@ The BB forums are an invaluable resource; the various console boards have litera
 
 ## Hardware
 
+### General
+* [OSD Control Board](https://github.com/CrazyGadgetMods/OSD-Control-Board) - Controls LCD driver boards with button combos
+
 ### Nintendo
 #### NES
 * [TinyTendo](https://github.com/Redherring32/TinyTendo) - An open source Gameboy sized handheld NES using real hardware
@@ -71,6 +74,8 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [N64 Stick Converter PCB v3](https://github.com/Nold360/n64_stick_converter) - AVR-based N64 stick converter by Jakob Schäfer
 * [64AMP](https://github.com/Gmanmodz/64AMP) - Digital audio amp for N64 based on LM49450
 * [N64-FRAM-Memory-Pak](https://github.com/Element18592/N64-FRAM-Memory-Pak) - An FRAM-based N64 controller pak replacement
+* [AkiraFlex](https://github.com/CrazyGadgetMods/AkiraFlex) - Open source RAMBUS termination flex for N64 portables
+* [N64 RCP Flex Suite](https://github.com/CrazyGadgetMods/N64-RCP-Flex-Suite) - Variety of OSHW flex PCBs for relocating the N64 cartridge slot
 * [SummerCart64](https://github.com/Polprzewodnikowy/SummerCart64) - Robust OSHW FPGA-based N64 flashcart
 * [Brutzelkarte (PCB](https://github.com/jago85/Brutzelkarte_PCB)[/Gateware)](https://github.com/jago85/Brutzelkarte_FPGA) - Prototype FPGA-based N64 flashcart
 * [DaisyDrive64](https://github.com/nopjne/DaisyDrive64) - In-development STM32H750-based N64 flashcart
