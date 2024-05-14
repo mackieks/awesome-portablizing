@@ -76,6 +76,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [N64-FRAM-Memory-Pak](https://github.com/Element18592/N64-FRAM-Memory-Pak) - An FRAM-based N64 controller pak replacement
 * [AkiraFlex](https://github.com/CrazyGadgetMods/AkiraFlex) - Open source RAMBUS termination flex for N64 portables
 * [N64 RCP Flex Suite](https://github.com/CrazyGadgetMods/N64-RCP-Flex-Suite) - Variety of OSHW flex PCBs for relocating the N64 cartridge slot
+* [rcp-n64-flex](https://github.com/programmerta/rcp-n64-flex) - N64 RCP cartridge slot flex PCB
 * [SummerCart64](https://github.com/Polprzewodnikowy/SummerCart64) - Robust OSHW FPGA-based N64 flashcart
 * [Brutzelkarte (PCB](https://github.com/jago85/Brutzelkarte_PCB)[/Gateware)](https://github.com/jago85/Brutzelkarte_FPGA) - Prototype FPGA-based N64 flashcart
 * [DaisyDrive64](https://github.com/nopjne/DaisyDrive64) - In-development STM32H750-based N64 flashcart
