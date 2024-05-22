@@ -14,12 +14,15 @@ Please open a PR if you know of a cool portablizing-related project that should 
         * [N64](#n64)
         * [GameCube](#gamecube)
         * [Wii](#wii)
+        * [Wii U](#wii-u)
     * [Sony](#sony)
-        * [PS1](#pa1)
+        * [PS1](#ps1)
         * [PS2](#ps2)
     * [Sega](#sega)
         * [Master System](#ms)
         * [Mega Drive / Genesis](#md)
+        * [Saturn](#saturn)
+        * [Dreamcast](#dreamcast)
 * [Software](#software)
 * [Guides](#guides)
 * [Documentation](#documentation)
@@ -144,6 +147,8 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [G-Wii](https://bitbuilt.net/forums/index.php?threads/g-wii-cad-files.2319/) - Open source Wii portable with 5" 640x480 screen
 * [G-Boy Rev III](https://bitbuilt.net/forums/index.php?threads/g-boy-pcb-files.5054/) - Open source DMG-style Wii portable
 * [Louii Twoii](https://bitbuilt.net/forums/index.php?threads/louii-twoii-cad-files.4886/) - Open source Wii portable with 5" 800x480 screen
+
+#### Wii U
 
 ## Software
 
