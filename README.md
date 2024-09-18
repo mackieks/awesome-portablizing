@@ -141,6 +141,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [PSU-Plus](https://github.com/CrazyGadgetMods/PSU-Plus?tab=readme-ov-file) - Improved, open source Wii regulator board
 * [Classic+](https://github.com/JSnowden33/ClassicPlus) - Wii Classic Controller and Nunchuk emulator
 * [Wii-Bluetooth-Replacement](https://github.com/JSnowden33/Wii-Bluetooth-Replacement) - ESP32-based Wii BT module replacement
+* [WavePhoenix](https://bitbuilt.net/forums/index.php?threads/wavephoenix-open-source-implementation-of-the-nintendo-wavebird-protocol.6519/) - WIP open source WaveBird receiver
 * [GC Nano](https://github.com/CrazyGadgetMods/GC-Nano-Suite) - World's smallest GameCube (Wii-based, OSHW)
 * [Short Stack](https://github.com/loopj/short-stack) - World's smallest Wii console (OSHW)
 * [Wii SPii](https://github.com/StonedEdge/WiiSPii) - Open source clamshell Wii portable
@@ -149,6 +150,14 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [Louii Twoii](https://bitbuilt.net/forums/index.php?threads/louii-twoii-cad-files.4886/) - Open source Wii portable with 5" 800x480 screen
 
 #### Wii U
+
+* [The Definitive Wii U Trimming Guide](https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-u-trimming-guide.6147/) - LOLWUT trim documentation
+* [Wii U Research & Development](https://bitbuilt.net/forums/index.php?threads/wii-u-r-d-thread-wurd.3683/) - BitBuilt thread where Wii U trim development / hardware hacking are documented
+* [Wii U Board Scans and Docs](https://drive.google.com/drive/folders/1T8iTm93AhAHYFhyDN9PrxH_x5npnDAZo?usp=sharing) - Wii U motherboard scans and pseudo-compendium
+* [Bistro](https://github.com/mackieks/bistro) - Open source custom regulator board for Wii Us
+* [Caféflex](https://github.com/mackieks/cafeFlex) - Open source flex PCB for relocating WUP-50 SLC, MLC, and Wi-Fi module
+* [MLC2SD](https://github.com/jan-hofmeier/mlc2sd) - Open source MLC-to-SD card replacement riser board
+
 
 ## Software
 
