@@ -152,7 +152,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 #### Wii U
 
 * [The Definitive Wii U Trimming Guide](https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-u-trimming-guide.6147/) - LOLWUT trim documentation
-* [Wii U Research & Development](https://bitbuilt.net/forums/index.php?threads/wii-u-r-d-thread-wurd.3683/) - BitBuilt thread where Wii U trim development / hardware hacking are documented
+* [Wii U Research & Development](https://bitbuilt.net/forums/index.php?threads/wii-u-r-d-thread-wurd.3683/) - Forum thread where Wii U trim development was documented
 * [Wii U Board Scans and Docs](https://drive.google.com/drive/folders/1T8iTm93AhAHYFhyDN9PrxH_x5npnDAZo?usp=sharing) - Wii U motherboard scans and pseudo-compendium
 * [Bistro](https://github.com/mackieks/bistro) - Open source custom regulator board for Wii Us
 * [Caféflex](https://github.com/mackieks/cafeFlex) - Open source flex PCB for relocating WUP-50 SLC, MLC, and Wi-Fi module
