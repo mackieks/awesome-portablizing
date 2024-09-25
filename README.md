@@ -157,6 +157,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [Bistro](https://github.com/mackieks/bistro) - Open source custom regulator board for Wii Us
 * [Caféflex](https://github.com/mackieks/cafeFlex) - Open source flex PCB for relocating WUP-50 SLC, MLC, and Wi-Fi module
 * [MLC2SD](https://github.com/jan-hofmeier/mlc2sd) - Open source MLC-to-SD card replacement riser board
+* [Pico de_Fuse](https://github.com/StroopwafelCFW/wii_u_modchip) - Powerful RP2040-based modchip for Wii U
 
 
 ## Software
