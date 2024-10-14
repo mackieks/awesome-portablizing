@@ -155,6 +155,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [Wii U Research & Development](https://bitbuilt.net/forums/index.php?threads/wii-u-r-d-thread-wurd.3683/) - Forum thread where Wii U trim development was documented
 * [Wii U Board Scans and Docs](https://drive.google.com/drive/folders/1T8iTm93AhAHYFhyDN9PrxH_x5npnDAZo?usp=sharing) - Wii U motherboard scans and pseudo-compendium
 * [Bistro](https://github.com/mackieks/bistro) - Open source custom regulator board for Wii Us
+* [PSU++](https://github.com/Lazr1026/PSUPlusPlus) - Open source regulator board for Wii Us (sans SoC core rails)
 * [Caféflex](https://github.com/mackieks/cafeFlex) - Open source flex PCB for relocating WUP-50 SLC, MLC, and Wi-Fi module
 * [MLC2SD](https://github.com/jan-hofmeier/mlc2sd) - Open source MLC-to-SD card replacement riser board
 * [Pico de_Fuse](https://github.com/StroopwafelCFW/wii_u_modchip) - Powerful RP2040-based modchip for Wii U
