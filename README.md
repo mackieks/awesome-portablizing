@@ -40,6 +40,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 
 ### General
 * [OSD Control Board](https://github.com/CrazyGadgetMods/OSD-Control-Board) - Controls LCD driver boards with button combos
+* [Shinobi Scaler](https://github.com/mackieks/Shinobi-Scaler) - OSHW RGB to VGA linedoubler/scaler for portables using GBS-Control
 
 ### Nintendo
 #### NES
