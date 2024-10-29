@@ -94,7 +94,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [N64-AIO](https://bitbuilt.net/forums/index.php?threads/n64-aio.3883/) - Gman's working N64 motherboard reimplementation
 * [N64 Tríos](https://bitbuilt.net/forums/index.php?threads/n64-tr%C3%ADos-a-3x3-inspired-motherboard-redesign.5029/) - SparkleBear's in-progress N64 motherboard reimplementation
 * [N64 Micro](https://bitbuilt.net/forums/index.php?threads/n64-micro.6204/) - thedrewm's in-progress N64 motherboard reimplementation
-* [N64HH V2](https://bitbuilt.net/forums/index.php?threads/n64hh-v2.6107/) - Closed source (STLs, Gerbers) N64 portable 
+* [N64HH V2](https://bitbuilt.net/forums/index.php?threads/n64hh-v2.6107/) - Open source N64 portable 
 
 #### GameCube
 * [GC+](https://github.com/Aurelio92/GCPlus) - PIC18F-based GameCube controller emulator
