@@ -144,6 +144,8 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [Classic+](https://github.com/JSnowden33/ClassicPlus) - Wii Classic Controller and Nunchuk emulator
 * [Wii-Bluetooth-Replacement](https://github.com/JSnowden33/Wii-Bluetooth-Replacement) - ESP32-based Wii BT module replacement
 * [WavePhoenix](https://bitbuilt.net/forums/index.php?threads/wavephoenix-open-source-implementation-of-the-nintendo-wavebird-protocol.6519/) - WIP open source WaveBird receiver
+* [GCVideo](https://github.com/ikorb/gcvideo) - FPGA-based DVI/HDMI mod for GameCube/Wii
+* [picoAVE](https://github.com/xtreme8000/picoAVE) - RP2040-based HDMI mod for Wii
 * [GC Nano](https://github.com/CrazyGadgetMods/GC-Nano-Suite) - World's smallest GameCube (Wii-based, OSHW)
 * [Short Stack](https://github.com/loopj/short-stack) - World's smallest Wii console (OSHW)
 * [Wii SPii](https://github.com/StonedEdge/WiiSPii) - Open source clamshell Wii portable
