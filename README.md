@@ -156,6 +156,9 @@ The BB forums are an invaluable resource; the various console boards have litera
 #### Wii U
 
 * [The Definitive Wii U Trimming Guide](https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-u-trimming-guide.6147/) - LOLWUT trim documentation
+* [The Definitive Wii U Trimming Guide A5X Expansion](https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-u-trimming-guide-a5x-expansion.6756/) - LOLWUN trim documentation
+* [PortablizeU Guide](https://bitbuilt.net/forums/index.php?threads/portablizeu-setup.6759/) - Wii U pre-trim softmodding guide
+* [PortablizeU](https://portabliz.eu/) - Wii U softmodding package generator for portablizers 
 * [Wii U Research & Development](https://bitbuilt.net/forums/index.php?threads/wii-u-r-d-thread-wurd.3683/) - Forum thread where Wii U trim development was documented
 * [Wii U Board Scans and Docs](https://drive.google.com/drive/folders/1T8iTm93AhAHYFhyDN9PrxH_x5npnDAZo?usp=sharing) - Wii U motherboard scans and pseudo-compendium
 * [Bistro](https://github.com/mackieks/bistro) - Open source custom regulator board for Wii Us
