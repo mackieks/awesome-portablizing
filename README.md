@@ -151,7 +151,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [G-Wii](https://bitbuilt.net/forums/index.php?threads/g-wii-cad-files.2319/) - Open source Wii portable with 5" 640x480 screen
 * [G-Boy Rev III](https://bitbuilt.net/forums/index.php?threads/g-boy-pcb-files.5054/) - Open source DMG-style Wii portable
 * [Louii Twoii](https://bitbuilt.net/forums/index.php?threads/louii-twoii-cad-files.4886/) - Open source Wii portable with 5" 800x480 screen
-* [Xii-Boy Pocket v2](https://github.com/Xenii1642/Xii-Boy-Pocket) - Open source Wii portable with 3.5" 640x480 screen
+* [Xii-Boy Pocket v2](https://github.com/Xenii1642/Xii-Boy-Pocket) - Partially open source Wii portable
 
 ### Wii U
 * [The Definitive Wii U Trimming Guide](https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-u-trimming-guide.6147/) - LOLWUT trim documentation
