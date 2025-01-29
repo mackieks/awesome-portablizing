@@ -7,26 +7,23 @@ Please open a PR if you know of a cool portablizing-related project that should 
 ## Contents
 
 * [Community](#community)
-* [Hardware](#hardware)
-    * [Nintendo](#nintendo)
-        * [NES](#nes)
-        * [SNES](#snes)
-        * [N64](#n64)
-        * [GameCube](#gamecube)
-        * [Wii](#wii)
-        * [Wii U](#wii-u)
-    * [Sony](#sony)
-        * [PS1](#ps1)
-        * [PS2](#ps2)
-    * [Sega](#sega)
-        * [Master System](#ms)
-        * [Mega Drive / Genesis](#md)
-        * [Saturn](#saturn)
-        * [Dreamcast](#dreamcast)
-* [Software](#software)
-* [Guides](#guides)
-* [Documentation](#documentation)
-* [Videos](#videos)
+* [General](#general)
+* [Nintendo](#nintendo)
+    * [NES](#nes)
+    * [SNES](#snes)
+    * [N64](#n64)
+    * [GameCube](#gamecube)
+    * [Wii](#wii)
+    * [Wii U](#wii-u)
+* [Sony](#sony)
+    * [PS1](#ps1)
+    * [PS2](#ps2)
+    * [PS3](#ps3)
+* [Sega](#sega)
+    * [Master System](#ms)
+    * [Mega Drive / Genesis](#md)
+    * [Saturn](#saturn)
+    * [Dreamcast](#dreamcast)
 
 ## Community
 
@@ -39,6 +36,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 ## General
 * [OSD Control Board](https://github.com/CrazyGadgetMods/OSD-Control-Board) - Controls LCD driver boards with button combos
 * [Shinobi Scaler](https://github.com/mackieks/Shinobi-Scaler) - OSHW RGB to VGA linedoubler/scaler for portables using GBS-Control
+* [PicoSync](https://github.com/Adewotta/PicoSync) - RP2040-based C-sync conditioner for CRT monitors
 
 ## Nintendo
 ### NES
