@@ -36,14 +36,12 @@ BitBuilt.net is where GC, Wii, N64, NES, SNES, Virtual Boy, PS1, PS2, Dreamcast,
 
 The BB forums are an invaluable resource; the various console boards have literally thousands of threads and worklogs, containing vast amounts of portablizing knowledge and info.
 
-## Hardware
-
-### General
+## General
 * [OSD Control Board](https://github.com/CrazyGadgetMods/OSD-Control-Board) - Controls LCD driver boards with button combos
 * [Shinobi Scaler](https://github.com/mackieks/Shinobi-Scaler) - OSHW RGB to VGA linedoubler/scaler for portables using GBS-Control
 
-### Nintendo
-#### NES
+## Nintendo
+### NES
 * [TinyTendo](https://github.com/Redherring32/TinyTendo) - An open source Gameboy sized handheld NES using real hardware
 * [TNY-NROM](https://github.com/MouseBiteLabs/TNY-NROM) - Custom NROM cartridge PCBs for TinyTendo
 * [TinyNES](https://github.com/loglow/TinyNES) - Open source miniature NES console
@@ -57,7 +55,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [COOLGIRL](https://github.com/ClusterM/coolgirl-famicom-multicart) - Open source hardware ultimate multigame cartridge for Famicom
 * [FamicomPowerBoard](https://github.com/hakkslab/FamicomPowerBoard) - Open source power board replacement for Famicom which adds AV RCA jacks
 
-#### SNES
+### SNES
 * [nonSNES](https://github.com/stonedDiscord/nonSNES) - An open source recreation of the SNSP-CPU-01 Rev5 SNES motherboard
 * [snesp](https://github.com/tdoug870/snesp) - An old school SNES portable using a PSOne screen, designed in openSCAD
 * [αSNES](https://bitbuilt.net/forums/index.php?threads/2022-contest-entry-%CE%B1snes.5055/) - Incomplete SNES portable based on 1-Chip motherboard redesign
@@ -69,7 +67,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [sd2snes](https://github.com/mrehkopf/sd2snes) - Open source SNES flashcart that supports every enhancement chip
 * [sd2snes-ecp5](https://github.com/samlittlewood/sd2snes_ecp5) - Port of sd2snes to ECP5. Enhancement chip support incomplete.
 
-#### N64
+### N64
 * [usb64](https://github.com/Ryzee119/usb64) - Feature-packed controller (CNT-NUS) emulator for N64. Works standalone or with USB controllers
 * [atmega328-N64-controller](https://github.com/jtryba/atmega328-N64-controller) - 328P-based N64 controller emulator with rumble and memory pak support.
 * [cube64-dx](https://github.com/darthcloud/cube64-dx) - Adapter to use GameCube controllers on N64
@@ -96,7 +94,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [N64 Micro](https://bitbuilt.net/forums/index.php?threads/n64-micro.6204/) - thedrewm's in-progress N64 motherboard reimplementation
 * [N64HH V2](https://bitbuilt.net/forums/index.php?threads/n64hh-v2.6107/) - Open source N64 portable 
 
-#### GameCube
+### GameCube
 * [GC+](https://github.com/Aurelio92/GCPlus) - PIC18F-based GameCube controller emulator
 * [GC+ 2.0](https://github.com/Aurelio92/GCPlus-2.0) - Improved GameCube controller emulator
 * [pico-rectangle](https://github.com/JulienBernard3383279/pico-rectangle) - RP2040-based GameCube fightstick
@@ -123,8 +121,9 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [Juicy Green and Opaque Purple NGCPs](https://bitbuilt.net/forums/index.php?threads/nintendo-gamecube-portable.3284/) - Further revisions of the NGCP utilizing 3D-printed shells
 * [juankamq's Modern GC Portable](https://bitbuilt.net/forums/index.php?threads/my-attempt-at-making-a-gamecube-portable.5707/) - A tiny, modern GameCube portable with Picoboot
 
-#### Wii
+### Wii
 * [RVK Compendium](https://bitbuilt.net/forums/index.php?threads/wii-rvk-01-compendium-released.93/) - In-depth tracing/pinoutting of the 4-layer Wii motherboard
+* [RVLoader](https://github.com/Aurelio92/RVLoader) - Game loader and softmod solution for Wii portables
 * [RVL-PMS](https://github.com/Gmanmodz/RVL-Power-Management-System) - BQ25895-based BMS + power management for Wii portables
 * [U-AMP](https://github.com/Gmanmodz/U-AMP) - LM49450-based digital audio amp for Wii and other consoles
 * [nandFlex](https://github.com/mackieks/nandFlex) - FPC for relocating Wii's NAND
@@ -152,9 +151,9 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [G-Wii](https://bitbuilt.net/forums/index.php?threads/g-wii-cad-files.2319/) - Open source Wii portable with 5" 640x480 screen
 * [G-Boy Rev III](https://bitbuilt.net/forums/index.php?threads/g-boy-pcb-files.5054/) - Open source DMG-style Wii portable
 * [Louii Twoii](https://bitbuilt.net/forums/index.php?threads/louii-twoii-cad-files.4886/) - Open source Wii portable with 5" 800x480 screen
+* [Xii-Boy Pocket v2](https://github.com/Xenii1642/Xii-Boy-Pocket) - Open source Wii portable with 3.5" 640x480 screen
 
-#### Wii U
-
+### Wii U
 * [The Definitive Wii U Trimming Guide](https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-u-trimming-guide.6147/) - LOLWUT trim documentation
 * [The Definitive Wii U Trimming Guide A5X Expansion](https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-u-trimming-guide-a5x-expansion.6756/) - LOLWUN trim documentation
 * [PortablizeU Guide](https://bitbuilt.net/forums/index.php?threads/portablizeu-setup.6759/) - Wii U pre-trim softmodding guide
@@ -169,10 +168,3 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [Pico de_Fuse](https://github.com/StroopwafelCFW/wii_u_modchip) - Powerful RP2040-based modchip for Wii U
 
 
-## Software
-
-## Guides
-
-## Documentation
-
-## Videos
