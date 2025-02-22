@@ -121,6 +121,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 
 ### Wii
 * [RVK Compendium](https://bitbuilt.net/forums/index.php?threads/wii-rvk-01-compendium-released.93/) - In-depth tracing/pinoutting of the 4-layer Wii motherboard
+* [WiiMiniCompendium](https://bitbuilt.net/forums/index.php?threads/wii-mini-documentation.6663/post-71257) - In-depth tracing/pinoutting of the Wii Mini motherboard
 * [RVLoader](https://github.com/Aurelio92/RVLoader) - Game loader and softmod solution for Wii portables
 * [RVL-PMS](https://github.com/Gmanmodz/RVL-Power-Management-System) - BQ25895-based BMS + power management for Wii portables
 * [U-AMP](https://github.com/Gmanmodz/U-AMP) - LM49450-based digital audio amp for Wii and other consoles
