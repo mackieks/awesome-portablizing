@@ -121,8 +121,8 @@ The BB forums are an invaluable resource; the various console boards have litera
 
 ### Wii
 * [RVK Compendium](https://bitbuilt.net/forums/index.php?threads/wii-rvk-01-compendium-released.93/) - In-depth tracing/pinoutting of the 4-layer Wii motherboard
-* [WiiMiniCompendium](https://bitbuilt.net/forums/index.php?threads/wii-mini-documentation.6663/post-71257) - In-depth tracing/pinoutting of the Wii Mini motherboard
-* [Alternate Wii Mini Compendium](https://drive.google.com/file/d/1GsnGrN29awn86efQb0n0DTSeQ7v9zt68/view) - Another in-depth tracing/pinoutting of the Wii Mini motherboard
+* [Wii Mini Compendium](https://drive.google.com/file/d/1GsnGrN29awn86efQb0n0DTSeQ7v9zt68/view) - In-depth tracing/pinoutting of the Wii Mini motherboard by ShinyQuagsire
+* [WIP Wii Mini Compendium](https://bitbuilt.net/forums/index.php?threads/wii-mini-documentation.6663/post-71257) - WIP tracing/pinoutting of the Wii Mini motherboard
 * [RVLoader](https://github.com/Aurelio92/RVLoader) - Game loader and softmod solution for Wii portables
 * [RVL-PMS](https://github.com/Gmanmodz/RVL-Power-Management-System) - BQ25895-based BMS + power management for Wii portables
 * [U-AMP](https://github.com/Gmanmodz/U-AMP) - LM49450-based digital audio amp for Wii and other consoles
@@ -140,6 +140,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [wii-power-module](https://github.com/Swioamsd/Wii-power-module) - Highly integrated voltage regulation / audio / SD / MX hat for OMEGA trims
 * [RVL-PSU](https://bitbuilt.net/forums/index.php?threads/rvl-psu.3335/) - Simple Wii regulator board
 * [PSU-Plus](https://github.com/CrazyGadgetMods/PSU-Plus?tab=readme-ov-file) - Improved, open source Wii regulator board
+* [XiiSBar](https://github.com/Xenii1642/XiiSBar) - Open source miniature Wii sensor bar for portables
 * [Classic+](https://github.com/JSnowden33/ClassicPlus) - Wii Classic Controller and Nunchuk emulator
 * [Wii-Bluetooth-Replacement](https://github.com/JSnowden33/Wii-Bluetooth-Replacement) - ESP32-based Wii BT module replacement
 * [WavePhoenix](https://bitbuilt.net/forums/index.php?threads/wavephoenix-open-source-implementation-of-the-nintendo-wavebird-protocol.6519/) - WIP open source WaveBird receiver
