@@ -127,6 +127,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [Wii Mini Compendium](https://drive.google.com/file/d/1GsnGrN29awn86efQb0n0DTSeQ7v9zt68/view) - In-depth tracing/pinoutting of the Wii Mini motherboard by ShinyQuagsire
 * [WIP Wii Mini Compendium](https://bitbuilt.net/forums/index.php?threads/wii-mini-documentation.6663/post-71257) - WIP tracing/pinoutting of the Wii Mini motherboard
 * [RVLoader](https://github.com/Aurelio92/RVLoader) - Game loader and softmod solution for Wii portables
+* [NPC](https://github.com/Nold360/npc) - MCU integration with RVLoader
 * [RVL-PMS](https://github.com/Gmanmodz/RVL-Power-Management-System) - BQ25895-based BMS + power management for Wii portables
 * [U-AMP](https://github.com/Gmanmodz/U-AMP) - LM49450-based digital audio amp for Wii and other consoles
 * [nandFlex](https://github.com/mackieks/nandFlex) - FPC for relocating Wii's NAND
