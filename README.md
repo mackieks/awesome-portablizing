@@ -34,6 +34,9 @@ BitBuilt.net is where GC, Wii, N64, NES, SNES, Virtual Boy, PS1, PS2, Dreamcast,
 The BB forums are an invaluable resource; the various console boards have literally thousands of threads and worklogs, containing vast amounts of portablizing knowledge and info.
 
 ## General
+* [LibrePD](https://github.com/Nold360/LibrePD) - USB-C Power Delivery PCB using IP2721
+* [LibreDock](https://github.com/Nold360/LibreDock) - VGA + controller dock solution for portables
+* [LibreHDMI](https://github.com/Nold360/LibreHDMI) - MS9288A-based VGA to HDMI converter
 * [OSD Control Board](https://github.com/CrazyGadgetMods/OSD-Control-Board) - Controls LCD driver boards with button combos
 * [Shinobi Scaler](https://github.com/mackieks/Shinobi-Scaler) - OSHW RGB to VGA linedoubler/scaler for portables using GBS-Control
 * [PicoSync](https://github.com/Adewotta/PicoSync) - RP2040-based C-sync conditioner for CRT monitors
