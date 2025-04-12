@@ -40,6 +40,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [OSD Control Board](https://github.com/CrazyGadgetMods/OSD-Control-Board) - Controls LCD driver boards with button combos
 * [Shinobi Scaler](https://github.com/mackieks/Shinobi-Scaler) - OSHW RGB to VGA linedoubler/scaler for portables using GBS-Control
 * [PicoSync](https://github.com/Adewotta/PicoSync) - RP2040-based C-sync conditioner for CRT monitors
+* [Reggie](https://github.com/mackieks/reggie) - Simple wide-input 3A voltage regulator board
 
 ## Nintendo
 ### NES
