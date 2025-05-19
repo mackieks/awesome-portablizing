@@ -134,6 +134,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [nandFlex](https://github.com/mackieks/nandFlex) - FPC for relocating Wii's NAND
 * [AVEflex](https://github.com/mackieks/AVEflex) - FPC for relocating Wii's AVE
 * [WiFiflex](https://github.com/supertazon/WiFiflex) - FPC for relocating Wii's Wi-Fi module
+* [mxHound](https://github.com/VoxelTek/mxHound) - FPC for relocating MX chip and U10
 * [fujiflex](https://github.com/mackieks/fujiflex) - GCVideo DVI flex PCB for Wii
 * [periphlex](https://github.com/loopj/periphlex) - Flex breakout for USB, BT and GCC on trimmed Wiis
 * [OmegaFlex](https://github.com/jmacato/OmegaFlex) - Wii NAND + U10 + digital video breakout flex
