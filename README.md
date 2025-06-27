@@ -138,6 +138,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [fujiflex](https://github.com/mackieks/fujiflex) - GCVideo DVI flex PCB for Wii
 * [periphlex](https://github.com/loopj/periphlex) - Flex breakout for USB, BT and GCC on trimmed Wiis
 * [OmegaFlex](https://github.com/jmacato/OmegaFlex) - Wii NAND + U10 + digital video breakout flex
+* [NIFTY-flex](https://github.com/Swioamsd/NIFTY-fiex) -  u10, nand, Bluetooth, USB, GC, AV, MX,and GCVideo breakout flex
 * [wii-breakout](https://github.com/loopj/wii-breakout) - Wii motherboard breakout PCB
 * [wii-trim-pcb-footprints](https://github.com/loopj/wii-trim-pcb-footprints) - Wii motherboard "shield" PCB templates
 * [Wii Power Strip](https://github.com/loopj/wii-power-strip) - Slimline PCB to supply power to trimmed Wii motherboards
