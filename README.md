@@ -155,6 +155,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [picoAVE](https://github.com/xtreme8000/picoAVE) - RP2040-based HDMI mod for Wii
 * [GC Nano](https://github.com/CrazyGadgetMods/GC-Nano-Suite) - World's smallest GameCube (Wii-based, OSHW)
 * [Short Stack](https://github.com/loopj/short-stack) - World's smallest Wii console (OSHW)
+* [Kawaii](https://github.com/mackieks/Kawaii) - Functional metal Wii keychain (OSHW)
 * [Wii SPii](https://github.com/StonedEdge/WiiSPii) - Open source clamshell Wii portable
 * [G-Wii](https://bitbuilt.net/forums/index.php?threads/g-wii-cad-files.2319/) - Open source Wii portable with 5" 640x480 screen
 * [G-Boy Rev III](https://bitbuilt.net/forums/index.php?threads/g-boy-pcb-files.5054/) - Open source DMG-style Wii portable
