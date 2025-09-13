@@ -99,6 +99,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 ### GameCube
 * [GC+](https://github.com/Aurelio92/GCPlus) - PIC18F-based GameCube controller emulator
 * [GC+ 2.0](https://github.com/Aurelio92/GCPlus-2.0) - Improved GameCube controller emulator
+* [Game Cube Controller 23-0899D](https://github.com/nataliethenerd/GCController23-0899D) - Reverse engineered GC controller PCB
 * [pico-rectangle](https://github.com/JulienBernard3383279/pico-rectangle) - RP2040-based GameCube fightstick
 * [PhobGCC](https://github.com/PhobGCC) - RP2040-based GameCube controller emulator with hall-effect sticks
 * [JohbGCC](https://github.com/8n1/JohbGCC) - Phob fork with DFM improvements
