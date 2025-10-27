@@ -41,6 +41,8 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [Shinobi Scaler](https://github.com/mackieks/Shinobi-Scaler) - OSHW RGB to VGA linedoubler/scaler for portables using GBS-Control
 * [PicoSync](https://github.com/Adewotta/PicoSync) - RP2040-based C-sync conditioner for CRT monitors
 * [Reggie](https://github.com/mackieks/reggie) - Simple wide-input 3A voltage regulator board
+* [U-AMP](https://github.com/Gmanmodz/U-AMP) - LM49450-based digital audio amp for Wii, PS2, and Dreamcast
+* [Scampi](https://github.com/mackieks/scampi) - WIP universal digital audio amp for SNES, N64, GC, Wii, Wii U, and more
 
 ## Nintendo
 ### NES
@@ -131,7 +133,6 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [RVLoader](https://github.com/Aurelio92/RVLoader) - Game loader and softmod solution for Wii portables
 * [NPC](https://github.com/Nold360/npc) - MCU integration with RVLoader
 * [RVL-PMS](https://github.com/Gmanmodz/RVL-Power-Management-System) - BQ25895-based BMS + power management for Wii portables
-* [U-AMP](https://github.com/Gmanmodz/U-AMP) - LM49450-based digital audio amp for Wii and other consoles
 * [nandFlex](https://github.com/mackieks/nandFlex) - FPC for relocating Wii's NAND
 * [AVEflex](https://github.com/mackieks/AVEflex) - FPC for relocating Wii's AVE
 * [WiFiflex](https://github.com/supertazon/WiFiflex) - FPC for relocating Wii's Wi-Fi module
