@@ -74,6 +74,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 ### N64
 * [usb64](https://github.com/Ryzee119/usb64) - Feature-packed controller (CNT-NUS) emulator for N64. Works standalone or with USB controllers
 * [atmega328-N64-controller](https://github.com/jtryba/atmega328-N64-controller) - 328P-based N64 controller emulator with rumble and memory pak support.
+* [n64-controller-port](https://github.com/loopj/n64-controller-port) - KiCAD footprint and 3D model for aftermarket female N64 controller ports
 * [cube64-dx](https://github.com/darthcloud/cube64-dx) - Adapter to use GameCube controllers on N64
 * [N64-Controller-Module](https://github.com/Gmanmodz/N64-Controller-Module) - Replacement N64 controller PCB for portables. Uses CNT-NUS and FRAM for mempak
 * [N64-Joystick-Converter](https://github.com/Gmanmodz/N64-Joystick-Converter) - PIC application code to connect pot-based joysticks to CNT-NUS
@@ -101,6 +102,7 @@ The BB forums are an invaluable resource; the various console boards have litera
 ### GameCube
 * [GC+](https://github.com/Aurelio92/GCPlus) - PIC18F-based GameCube controller emulator
 * [GC+ 2.0](https://github.com/Aurelio92/GCPlus-2.0) - Improved GameCube controller emulator
+* [gcn-controller-port](https://github.com/loopj/gcn-controller-port) - KiCAD footprint and 3D model for aftermarket female GC controller port
 * [Game Cube Controller 23-0899D](https://github.com/nataliethenerd/GCController23-0899D) - Reverse engineered GC controller PCB
 * [pico-rectangle](https://github.com/JulienBernard3383279/pico-rectangle) - RP2040-based GameCube fightstick
 * [PhobGCC](https://github.com/PhobGCC) - RP2040-based GameCube controller emulator with hall-effect sticks
