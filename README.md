@@ -98,7 +98,8 @@ The BB forums are an invaluable resource; the various console boards have litera
 * [N64 Tríos](https://bitbuilt.net/forums/index.php?threads/n64-tr%C3%ADos-a-3x3-inspired-motherboard-redesign.5029/) - SparkleBear's in-progress N64 motherboard reimplementation
 * [N64 Micro](https://bitbuilt.net/forums/index.php?threads/n64-micro.6204/) - thedrewm's in-progress N64 motherboard reimplementation
 * [N64HH V2](https://bitbuilt.net/forums/index.php?threads/n64hh-v2.6107/) - Open source N64 portable
-* [Matterhorn 64 CORE](https://github.com/Xenii1642/Matterhorn-64-CORE) - The smallest fully open-source redesign of the Nintendo 64 motherboard.
+* [OpeN64](https://github.com/cy-888/OpeN64) - Open source 1:1 NUS-CPU-03 N64 motherboard recreation
+* [Matterhorn 64 CORE](https://github.com/Xenii1642/Matterhorn-64-CORE) - Compact open-source N64 motherboard redesign optimized for portablizing
 
 ### GameCube
 * [GC+](https://github.com/Aurelio92/GCPlus) - PIC18F-based GameCube controller emulator
